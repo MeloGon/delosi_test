@@ -1,16 +1,8 @@
 # test_dev_delosi
 
-A new Flutter project.
+Proyecto en flutter para el test, se uso flutter 3.19.5, patron mvvm con Stacked, la gestion de estado se basas en baseviewmodel
 
-## Getting Started
+<img src="https://github.com/MeloGon/delosi_test/blob/main/untitled.gif" width="25%" height="25%">
 
-This project is a starting point for a Flutter application.
+Para correr el proyecto correr el build_runner para generar el config 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
